@@ -18,9 +18,9 @@ You can download python [here](https://www.python.org/downloads/).
 
 ## Usage:
 
-You should start cloning this repository:
+You should start cloning this repository in the terminal:
 
-    $ git clone https://github.com/klassmann/udacity-movie-trailer-website.git
+    $ git clone https://github.com/Fahim-Azwad/movie-trailer-website.git
 
 After getting the code, you must run **entertainment_center.py** script with **python** like this:
 
